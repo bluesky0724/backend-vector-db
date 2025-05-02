@@ -21,7 +21,7 @@ A FastAPI-based backend service for vector database operations, providing effici
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Lucifer-kv/backend-vector-db.git
+git clone https://github.com/bluesky0724/backend-vector-db.git
 cd backend-vector-db
 ```
 
